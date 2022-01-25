@@ -1,0 +1,39 @@
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe.config
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.pdb
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form1.resources
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Properties.Resources.resources
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.exe
+C:\Users\durmus\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe.config
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form1.resources
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form2.resources
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Properties.Resources.resources
+C:\Users\ESER\Desktop\aliveris_otomasyonu\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe.config
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form1.resources
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form2.resources
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Properties.Resources.resources
+C:\Users\ESER\Desktop\telefon satış\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe.config
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.exe
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\bin\Debug\aliveris_otomasyonu.pdb
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form1.resources
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Form2.resources
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.Properties.Resources.resources
+C:\Users\ESER\Desktop\telefon satış - Kopya\aliveris_otomasyonu\obj\Debug\aliveris_otomasyonu.csproj.GenerateResource.Cache
